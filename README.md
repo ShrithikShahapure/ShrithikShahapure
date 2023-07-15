@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring data engineer wih an interest in cloud-based systems.
+I'm an aspiring data engineer with an interest in cloud-based systems.
 
 
 # 💻 Tech Stack:
