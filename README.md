@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm an aspiring data engineer with an interest in cloud-based systems.
 
+<img src="logo_github.gif" alt="GitHub Logo" width="530px" height="200px">
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
