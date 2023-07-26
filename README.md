@@ -8,7 +8,7 @@ I'm an aspiring data engineer with an interest in cloud-based systems.
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Sreamlit-CA4245?logo=react&logoColor=white&style=for-the-badge) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-CA4245?logo=react&logoColor=white&style=for-the-badge) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
