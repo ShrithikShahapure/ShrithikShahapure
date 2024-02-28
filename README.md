@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring data engineer with an interest in cloud-based systems.
+DevOps and Data engineering.
 
 <img src="logo_github.gif" alt="GitHub Logo" width="530px" height="200px">
 
