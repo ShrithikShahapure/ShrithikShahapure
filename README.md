@@ -75,9 +75,5 @@ Here are a few things I’ve built / worked on (swap, reorder, or add 1–2 “b
 
 ---
 
-<!-- Optional: GitHub stats (use if you like, but don’t overdo widgets) -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShrithikShahapure&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrithikShahapure&layout=compact" />
-</p>
+
 
