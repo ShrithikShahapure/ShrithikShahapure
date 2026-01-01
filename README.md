@@ -1,21 +1,83 @@
-# 💫 About Me:
-DevOps and Data engineering.
+<!--
+Profile README for: https://github.com/ShrithikShahapure
+Tip: Keep this crisp. Recruiters spend ~20–40 seconds here.
+-->
 
-<img src="logo_github.gif" alt="GitHub Logo" width="530px" height="200px">
+<h1 align="center">Hey, I’m Shrithik Shahapure 👋</h1>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-CA4245?logo=react&logoColor=white&style=for-the-badge) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
-![MYSQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <b>Machine Learning • Cloud Engineering • MLOps • Platform Engineering / SRE</b><br/>
+  I build end-to-end systems: from data + training to deployment, observability, and automation.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrithik-shahapure/">LinkedIn</a> •
+  <a href="mailto:svshrithik12@gmail.com">Email</a> •
+
+</p>
+
+---
+
+## 🔭 What I focus on
+- **ML Engineering:** PyTorch training loops, evaluation, data pipelines, model packaging
+- **Cloud Engineering:** AWS/Azure architectures, IaC, secure-by-default deployments
+- **MLOps & Reliability:** CI/CD, monitoring/alerting, cost/performance optimization, production readiness
+
+---
+
+## 🧰 Tech Stack
+
+**ML / Data**
+- Python, PyTorch, Streamlit
+- PostgreSQL, Redis
+
+**Cloud / DevOps**
+- AWS, Azure, Terraform, Docker, Kubernetes
+- Git, GitHub Actions, Linux, Bash
+
+**Observability**
+- Grafana, Dynatrace
+
+> If you want a one-line “toolbox” banner, keep it simple:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,azure,terraform,docker,kubernetes,githubactions,linux,bash,postgres,redis,golang" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+Here are a few things I’ve built / worked on (swap, reorder, or add 1–2 “best” ones at the top):
+
+- **GPT (GPT-2 implementation)** — Transformer implementation, training/evals, and experiments  
+  👉 https://github.com/ShrithikShahapure/GPT
+
+- **Solving Research Papers** — Notes + implementations while studying papers  
+  👉 https://github.com/ShrithikShahapure/SolvingResearchPapers
+
+- **Netmaze Explorer** — Hybrid networking design (on-prem ↔ AWS)  
+  👉 https://github.com/ShrithikShahapure/netmaze-explorer
+
+- **Bitcoin Monitor** — Near real-time dashboard for BTC exchange data  
+  👉 https://github.com/ShrithikShahapure/Bitcoin-Monitor
+
+- **YouTube Data Engineering** — Data engineering pipeline + analysis for YouTube data  
+  👉 https://github.com/ShrithikShahapure/Youtube-Data-Engineering
+
+
+
+
+
+---
+
+## 📫 Contact
+- **Email:** `svshrithik12@gmail.com`
+- **LinkedIn:** https://www.linkedin.com/in/shrithik-shahapure/
+
+---
+
+<!-- Optional: GitHub stats (use if you like, but don’t overdo widgets) -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShrithikShahapure&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrithikShahapure&layout=compact" />
+</p>
 
