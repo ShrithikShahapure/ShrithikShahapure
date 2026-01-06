@@ -13,6 +13,7 @@ Tip: Keep this crisp. Recruiters spend ~20–40 seconds here.
 <p align="center">
   <a href="https://www.linkedin.com/in/shrithik-shahapure/">LinkedIn</a> •
   <a href="mailto:svshrithik12@gmail.com">Email</a> •
+  <a href="https://shrithik.hashnode.dev/">Blog</a>
 
 </p>
 
