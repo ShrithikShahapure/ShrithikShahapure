@@ -61,15 +61,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrithikShahapure&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrithikShahapure&layout=compact&hide_border=true&langs_count=8" height="165"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shrithik-shahapure/">LinkedIn</a> ·
   <a href="mailto:svshrithik12@gmail.com">Email</a> ·
