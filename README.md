@@ -43,15 +43,15 @@
 
 | Project | What it does | Tech |
 |---------|-------------|------|
+| [**stock-agent-ops**](https://github.com/ShrithikShahapure/stock-agent-ops) | Stock analysis agent | Python |
 | [**GPT**](https://github.com/ShrithikShahapure/GPT) | Ground-up implementation of GPT-2 — transformer architecture, training, and experiments | PyTorch, Jupyter |
-| [**5-dollar-llm**](https://github.com/ShrithikShahapure/5-dollar-llm) | Training an LLM from scratch for $5 USD — research into efficient training | Python |
 | [**Autogradr**](https://github.com/ShrithikShahapure/Autogradr) | Autograd engine built from scratch using only NumPy — no PyTorch | Python, NumPy |
 | [**Solving Research Papers**](https://github.com/ShrithikShahapure/SolvingResearchPapers) | Notes and implementations from studying ML/DL research papers | Python |
-| [**encoder**](https://github.com/ShrithikShahapure/encoder) | Serverless video format converter | AWS Lambda |
-| [**netmaze-explorer**](https://github.com/ShrithikShahapure/netmaze-explorer) | Hybrid networking environment connecting on-prem to AWS securely | Terraform, HCL |
 | [**Bitcoin Monitor**](https://github.com/ShrithikShahapure/Bitcoin-Monitor) | Real-time dashboard for BTC exchange data | Python |
 | [**Chapterify**](https://github.com/ShrithikShahapure/Chapterify) | Generates chapters for YouTube videos automatically | Python |
-| [**stock-agent-ops**](https://github.com/ShrithikShahapure/stock-agent-ops) | Stock analysis agent | Python |
+| [**encoder**](https://github.com/ShrithikShahapure/encoder) | Serverless video format converter | AWS Lambda |
+| [**netmaze-explorer**](https://github.com/ShrithikShahapure/netmaze-explorer) | Hybrid networking environment connecting on-prem to AWS securely | Terraform, HCL |
+
 
 ---
 
